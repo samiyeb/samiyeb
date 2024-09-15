@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Sam Bakri
-- 🌱 I’m a Computer Science graduate from the University of Minnesota - Twin Cities
-- 📫 How to reach me is by emailing me at samiye.bakri@gmail.com or by messaging me on LinkedIn with the URL: https://www.linkedin.com/in/sam-bakri/ 
+Software engineer specializing in Java and Go with a focus on building scalable, efficient, and robust applications. My projects include a goal progression tracker leveraging Spring Boot and PostgreSQL for CRUD operations, a JSON parser in Go for validating and processing complex data structures, and a Go implementation of the Unix wc command. I prioritize high code quality through comprehensive testing and robust error handling across all my projects. Passionate about open-source and continuously improving my craft by exploring new technologies.
 
