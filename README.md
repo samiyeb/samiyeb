@@ -8,7 +8,7 @@ A recent Computer Science graduate who is passionate about creating scalable, ef
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [samiye.bakri@gmail.com](mailto:samiye.bakri@gmail.com)
-* 🧠  I'm learning Kotlin and Mobile App Development
+* 🧠  I'm learning Mobile App Development
 * ⚡  I like rowing and One Piece
 
 ### Skills
