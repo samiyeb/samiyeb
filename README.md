@@ -10,6 +10,13 @@ A recent Computer Science graduate who is passionate about creating scalable, ef
 * ✉️  You can contact me at [samiye.bakri@gmail.com](mailto:samiye.bakri@gmail.com)
 * ⚡  I like rowing and One Piece
 
+### Leetcode
+<p align=center>
+ <a href="https://leetcode.com/samiyeb">
+  <img width=512 title="Sam's LeetCode Stats" alt="Sam's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=samiyeb&style=dark&font=Garamond&extension=activity" />
+ </a>
+</p>
+
 ### Skills
 
 
