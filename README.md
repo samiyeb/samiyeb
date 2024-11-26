@@ -4,7 +4,7 @@ Hi, My name is Sam Bakri
 Software Engineer
 -----------------
 
-A recent Computer Science graduate who is passionate about creating scalable, efficient, and resilient applications. My focus lies in crafting solutions that are not only high-performing but also maintainable and robust, with a keen eye for clean code and comprehensive testing.
+A recent Computer Science graduate who have experience with Java and the Spring Boot framework, and contributed to satellite software in C++. I also made CLI tools and other projects in Golang and now I'm currently eager to dive into iOS/Android Mobile Development! 
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [samiye.bakri@gmail.com](mailto:samiye.bakri@gmail.com)
