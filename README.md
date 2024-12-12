@@ -4,7 +4,7 @@ Hi 👋 My name is Sam Bakri
 Software Engineer
 -----------------
 
-A recent Computer Science graduate who have experience with Java and the Spring Boot framework, and contributed to satellite software in C++. I also made CLI tools and other projects in Golang and now I'm currently eager to dive into iOS/Android Mobile Development!
+A recent Computer Science graduate who have experience with satellite software in C++. I also made CLI tools and other projects in Golang and now I'm currently eager to dive into iOS/Android Mobile Development!
 
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [MyPortfolio](http://samiyeb.github.io/portfolio/)
