@@ -28,3 +28,11 @@ A recent Computer Science graduate who have experience with C++, and Golang. As 
 ### Badges
 
 <a href="https://github.com/samiyeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiyeb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Leetcode
+
+<p align=center>
+ <a href="https://leetcode.com/samiyeb">
+  <img width=512 title="Sam's LeetCode Stats" alt="Sam's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=samiyeb&style=dark&font=Garamond&extension=activity" />
+ </a>
+</p>
