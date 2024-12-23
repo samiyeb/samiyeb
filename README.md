@@ -4,7 +4,7 @@ Hi 👋 My name is Sam Bakri
 Software Engineer
 -----------------
 
-A recent Computer Science graduate who have experience with C++, and Golang. As of now I'm currently eager to dive into Android Mobile Development!
+A recent Computer Science graduate who has experience with C++, and Golang. As of now I'm currently eager to dive into Android Mobile Development!
 
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [MyPortfolio](http://samiyeb.github.io/portfolio/)
