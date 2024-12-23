@@ -31,8 +31,4 @@ A recent Computer Science graduate who have experience with C++, and Golang. As 
 
 ### Leetcode
 
-<p align=center>
- <a href="https://leetcode.com/samiyeb">
-  <img width=512 title="Sam's LeetCode Stats" alt="Sam's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=samiyeb&style=dark&font=Garamond&extension=activity" />
- </a>
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/samiyeb?theme=unicorn&font=IBM%20Plex%20Sans%20Arabic&ext=activity)
