@@ -6,7 +6,7 @@ Software Engineer
 
 A recent Computer Science graduate who has experience with satellite software in C++, and project experience in Golang.
 
-* 🌍  I'm based in Minnesota, United States
+* 🌍  I'm based in the United States
 * 🖥️  See my portfolio at [Portfolio](http://samiyeb.github.io/portfolio/)
 * ✉️  You can contact me at [samiye.bakri@gmail.com](mailto:samiye.bakri@gmail.com)
 * 🧠  I'm learning Full Stack Development
